@@ -99,3 +99,15 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+perceptron/LICENSE
+
+first_rbm/models/
+
+first_rbm/t10k-images-idx3-ubyte\.gz
+
+first_rbm/t10k-labels-idx1-ubyte\.gz
+
+first_rbm/train-images-idx3-ubyte\.gz
+
+first_rbm/train-labels-idx1-ubyte\.gz
